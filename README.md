@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @braechnov
+- 👀 I’m interested in development
+- 🌱 I’m currently learning elixir
+- 💞️ I’m looking to collaborate on a workflow engine
+- 📫 braechnov@outlook.com
